@@ -1,8 +1,7 @@
 {
-  "url": "https://github.com/purarue/tree-sitter-rifleconf",
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
   "location": null,
-  "lang": "rifleconf"
+  "url": "https://github.com/purarue/tree-sitter-rifleconf",
+  "lang": "rifleconf",
+  "semver": false,
+  "parser_version": "6389ef0fc0d48f0397ec233109c074a0cb685e36"
 }
