@@ -1,6 +1,6 @@
 {
-  "parser_version": "6389ef0fc0d48f0397ec233109c074a0cb685e36",
-  "lang": "rifleconf",
   "url": "https://github.com/purarue/tree-sitter-rifleconf",
-  "semver": false
+  "semver": false,
+  "parser_version": "6389ef0fc0d48f0397ec233109c074a0cb685e36",
+  "lang": "rifleconf"
 }
